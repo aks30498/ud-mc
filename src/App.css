@@ -1,0 +1,18 @@
+.configSection {
+  display: flex;
+  justify-content: center;
+  padding: 1em 0 2em 0;
+}
+
+.configSection--inputLabel {
+  display: block;
+  margin-bottom: 0.5em;
+}
+
+.configSection--inputFieldContainer {
+  margin-left: 1em;
+}
+
+.row {
+  display: flex;
+}
